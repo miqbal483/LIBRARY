@@ -5,7 +5,8 @@
   perpustakaan, memastikan kenyamanan dan produktivitas yang lebih tinggi dalam proses belajar dan penelitian.
 
 ~ OUR TEAM ~
-![LIBRARY](https://github.com/miqbal483/LIBRARY/assets/168562250/f5407aeb-e099-4462-9667-16c156324213)
+![leadder](https://github.com/miqbal483/LIBRARY/assets/168562250/d9d76b2e-a865-4532-88ed-28f3fd9c5def)
+
 
 
 *Brief Explanation*
