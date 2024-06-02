@@ -34,7 +34,7 @@
     
 2.PCB
     
-3,Audio
+3.Audio
     
 
 ~ PROGRAM~
@@ -42,6 +42,16 @@
 -Proram Arduino 
 
 ~ 3D DESIGN ~
+-Kotak speaker alarm 
+    -tampak atas 
+![Kotak tampak atas](https://github.com/miqbal483/LIBRARY/assets/168562250/275495f9-fb51-403c-a9c0-783796a31f21)
+
+    -sisi samping   
+![kotak ](https://github.com/miqbal483/LIBRARY/assets/168562250/b82037cd-8f78-457e-8ede-f791671e7f0b)
+
+    
+
+    
 
 
 Simulation on progress:
