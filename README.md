@@ -14,19 +14,19 @@
 1.Arduino At Mega2560
 
 
-    ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d)
+![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d)
 
 2.Real Time Clock (RTC)
 
-    ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/a6e24722-3405-4a8c-8c61-826a1ae610d8)
+![image](https://github.com/miqbal483/LIBRARY/assets/168562250/a6e24722-3405-4a8c-8c61-826a1ae610d8)
 
 3.Amplyfier 5v
 
-    ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/8368f4d1-7b34-4e7c-9449-11afbd0c5c05)
+![image](https://github.com/miqbal483/LIBRARY/assets/168562250/8368f4d1-7b34-4e7c-9449-11afbd0c5c05)
 
 4.Speaker
 
-    ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)
+![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)
 
 
 ~ ELECTRICAL ~
