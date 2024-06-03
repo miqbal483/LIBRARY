@@ -46,11 +46,13 @@ SQW: Output gelombang persegi yang dapat diprogram (1Hz, 1.024kHz, 4.096kHz, ata
 ~ ELECTRICAL ~
 1.Schematic
     
-![Skematik](https://github.com/miqbal483/LIBRARY/assets/168562250/5e9c3f0b-f000-41d2-be23-25697c9ab3c1)
+![Gambar WhatsApp 2024-06-03 pukul 12 02 48_68228d2c](https://github.com/miqbal483/LIBRARY/assets/168562250/2e360a24-c0e3-4003-a24e-45df6792fead)
+
 
 2.PCB
 
-![PCB](https://github.com/miqbal483/LIBRARY/assets/168562250/5cbafad0-705c-4d2e-b069-3be78c5d31bb)
+![Gambar WhatsApp 2024-06-03 pukul 11 58 47_86eacc8d](https://github.com/miqbal483/LIBRARY/assets/168562250/fc2609dd-e876-4617-b39c-f6000f0c141e)
+
 
     
 3.Audio
