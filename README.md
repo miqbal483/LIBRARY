@@ -28,11 +28,6 @@ EEPROM: 4 KB
 Clock Speed: 16 MHz
 ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d)
 
-2.Real Time Clock (RTC)
-    RTC atau Real Time Clock adalah jam elektronik berupa chip yang dapat menghitung waktu (mulai detik hingga tahun) dengan akurat dan menjaga atau menyimpan data waktu tersebut secara real-time
-
-![image](https://github.com/miqbal483/LIBRARY/assets/168562250/a6e24722-3405-4a8c-8c61-826a1ae610d8)
-
 3.Amplyfier 5v
 VCC: Tegangan suplai utama (2.3V hingga 5.5V)
 GND: Ground
