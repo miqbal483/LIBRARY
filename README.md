@@ -58,15 +58,19 @@ Tabel Komponen
 Software
 | No.  | Nama Software  | Gambar  |
 | :------------: | :------------: | :------------: |
-| 1  | Git Hub  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/bd5949c1-7090-4e58-80a6-7ac81824297a) |
-| 2  |  Visual studio 2022  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/04e89d1d-0f4d-4dc7-8d3e-5b2c43ee9a24) |
+| 1  | Git Hub  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/4f512ab2-e4b6-44b4-bdf9-61a0b635a4a2)
+ |
+| 2  |  Visual studio 2022  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/51341e1c-ca15-41e2-96ff-42ce25cff58b)
+ |
 
 DETILE PROJECT
 1.PCB
 -Desain Skematik PCB
+
   ![Gambar WhatsApp 2024-06-03 pukul 12 02 50_557829c4](https://github.com/miqbal483/LIBRARY/assets/168562250/29340940-0bb3-4adf-a707-e5d381f423a3)
 
 -Desain Brd PCB
+
   ![Gambar WhatsApp 2024-06-03 pukul 11 58 49_088699b5](https://github.com/miqbal483/LIBRARY/assets/168562250/7f10e5c6-53e3-4571-914c-6e975d8c16dd)
 
 -Vidio Desain PCB
