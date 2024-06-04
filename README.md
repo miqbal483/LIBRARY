@@ -58,8 +58,7 @@ Tabel Komponen
 Software
 | No.  | Nama Software  | Gambar  |
 | :------------: | :------------: | :------------: |
-| 1  | Git Hub  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/4f512ab2-e4b6-44b4-bdf9-61a0b635a4a2)
- |
+| 1  | Git Hub  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/4f512ab2-e4b6-44b4-bdf9-61a0b635a4a2) |
 | 2  |  Visual studio 2022  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/51341e1c-ca15-41e2-96ff-42ce25cff58b) |
 
 DETILE PROJECT
