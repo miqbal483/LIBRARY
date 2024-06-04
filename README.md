@@ -51,7 +51,7 @@ Daftar alat hardware
 | 4  |  Switch 3 pin |  1x |
 | 5  |  Speaker | 1x  |
 | 6  | Baterai 9V  |  1x |
-| 7  | Resistor 220ohm |  1x |
+| 7  | Resistor 220ohm |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d) |
 
 
 1.Arduino At Mega2660 
