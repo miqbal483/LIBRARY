@@ -46,25 +46,9 @@ Komponent Dan Software
 | 1  | Arduino mega 2560  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/bd5949c1-7090-4e58-80a6-7ac81824297a) |
 | 2  |  Switch  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/04e89d1d-0f4d-4dc7-8d3e-5b2c43ee9a24) |
 | 5  |  Speaker | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)  |
-| 6  |  Amplyfier 5V |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/8368f4d1-7b34-4e7c-9449-11afbd0c5c05) |
+| 6  |  Amplyfier 5V |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/6a5d8969-c13d-4ca7-9e0a-1ceff546c52b)
+ |
 
-
-
-
-
-3.Amplyfier 5v
-VCC: Tegangan suplai utama (2.3V hingga 5.5V)
-GND: Ground
-SCL: Serial Clock Line (untuk I2C)
-SDA: Serial Data Line (untuk I2C)
-32K: Output sinyal frekuensi 32.768kHz (opsional)
-SQW: Output gelombang persegi yang dapat diprogram (1Hz, 1.024kHz, 4.096kHz, atau 8.192kHz)
-
-![image](https://github.com/miqbal483/LIBRARY/assets/168562250/8368f4d1-7b34-4e7c-9449-11afbd0c5c05)
-
-4.Speaker 
-
-![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)
 
 
 ~ ELECTRICAL ~
