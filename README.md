@@ -10,7 +10,7 @@ Meet out team
 
 ![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
 
-## Daftar Isi
+## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
 - [Meet out team](#Meet-our-team)
 - [Alat dan Bahan](#Alat-dan-Bahan)
@@ -21,26 +21,34 @@ Meet out team
   - [Cara Kerja](#Cara-Kerja)
 - [Detail Proyek](#Detail-Proyek)
   - [PCB](#PCB)
-    - [Desain Skematik Shield Arduino](#Desain-Skematik-Shield-Arduino)
-    - [Desain Shield PCB](#Desain-Shield-PCB)
-    - [Desain Sistem Proyek](#Desain-Sistem-Proyek)
+    - [Desain Skematik PCB](#Desain-Skematik-PCB)
     - [Video Desain PCB](#Video-Desain-PCB)
     - [Hasil Gambar PCB](#Hasil-Gambar-PCB)
   - [3D Kemasan Proyek](#3D-Kemasan-Proyek)
-    - [Desain 3D Case Arduino](#Desain-3D-Case-Arduino)
+    - [Desain 3D ](#Desain-3D-Case-Arduino)
+          -[Desain tampak atas](#Desain-tampak-atas)
+          -[Desain tampak samping](#Desain-tampak-samping) 
     - [Video Pembuatan Desain 3D](#Video-Pembuatan-Desain-3D)
-    - [Foto 3D](#Foto-3D)
+  
   - [Program](#Program)
     - [Convert Audio](#Convert-Audio)
     - [Video Convert Audio](#Video-Convert-Audio)
     - [Simulasi Program](#Simulasi-Program)
     - [Video Simulasi](#Video-Simulasi)
     - [Realisasi Program](#Realisasi-Program)
-    - [Realisasi EEPROM](#Realisasi-EEPROM)
 - [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
-
-
-~ COMPONEN ~
+Alat dan Bahan
+Daftar alat software
+Daftar alat hardware
+| No.  | Nama Barang  | Jumlah  |
+| :------------: | :------------: | :------------: |
+| 1  | Arduino ATmega 2560  | 1x  |
+| 2  | Push Button  | 8x  |
+| 3  |  Switch  | 1x  |
+| 4  |  Switch 3 pin |  1x |
+| 5  |  Speaker | 1x  |
+| 6  | Baterai 9V  |  1x |
+| 7  | Resistor 220ohm |  1x |
 1.Arduino At Mega2660 
     Arduino 2560 adalah papan mikrokontroler yang didasarkan pada ATmega2560 dari keluarga mikrokontroler AVR buatan Atmel. Arduino Mega 2560 dirancang untuk proyek yang membutuhkan lebih banyak I/O (Input/Output) dan memori daripada yang ditawarkan oleh papan seperti Arduino Uno. Papan ini sangat cocok untuk proyek-proyek yang lebih kompleks seperti robotik, sistem otomatisasi, dan instalasi seni interaktif.
 SPESIFIKASI :
