@@ -1,14 +1,4 @@
-~LIBRARY OTOMATIC ALARM ~
-Deskripsi 
-![leadder (1)](https://github.com/miqbal483/LIBRARY/assets/168562250/7a54e567-f1b1-40a2-a387-f03c54a57625)
-    Smart alarm library adalah perpustakaan yang di rancang khusus untuk meningkatkan pengalaman pengunjung. 
-  Perpustakan dengan  integrasi teknologi alarm cerdas dengan sistem alarm pintar yang membantu pengguna untuk mengatur 
-  waktu belajar, membaca, dan aktivitas lainnya Dengan teknologi ini, pengguna dapat memaksimalkan waktu mereka di 
-  perpustakaan, memastikan kenyamanan dan produktivitas yang lebih tinggi dalam proses belajar dan penelitian.
-
-Meet out team
-
-![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
+SISTEM PENGINGAT WAKTU KUNJUNGAN PUSTAKA AKAN SEGERA BERAKHIR 
 
 ## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
@@ -37,9 +27,23 @@ Meet out team
     - [Video Simulasi](#Video-Simulasi)
     - [Realisasi Program](#Realisasi-Program)
 - [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
+
+  ~LIBRARY OTOMATIC ALARM ~
+Deskripsi 
+![leadder (1)](https://github.com/miqbal483/LIBRARY/assets/168562250/7a54e567-f1b1-40a2-a387-f03c54a57625)
+    Smart alarm library adalah perpustakaan yang di rancang khusus untuk meningkatkan pengalaman pengunjung. 
+  Perpustakan dengan  integrasi teknologi alarm cerdas dengan sistem alarm pintar yang membantu pengguna untuk mengatur 
+  waktu belajar, membaca, dan aktivitas lainnya Dengan teknologi ini, pengguna dapat memaksimalkan waktu mereka di 
+  perpustakaan, memastikan kenyamanan dan produktivitas yang lebih tinggi dalam proses belajar dan penelitian.
+
+Meet out team
+
+![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
+
 Alat dan Bahan
 Daftar alat software
 Daftar alat hardware
+
 | No.  | Nama Barang  | Jumlah  |
 | :------------: | :------------: | :------------: |
 | 1  | Arduino ATmega 2560  | 1x  |
@@ -49,6 +53,8 @@ Daftar alat hardware
 | 5  |  Speaker | 1x  |
 | 6  | Baterai 9V  |  1x |
 | 7  | Resistor 220ohm |  1x |
+
+
 1.Arduino At Mega2660 
     Arduino 2560 adalah papan mikrokontroler yang didasarkan pada ATmega2560 dari keluarga mikrokontroler AVR buatan Atmel. Arduino Mega 2560 dirancang untuk proyek yang membutuhkan lebih banyak I/O (Input/Output) dan memori daripada yang ditawarkan oleh papan seperti Arduino Uno. Papan ini sangat cocok untuk proyek-proyek yang lebih kompleks seperti robotik, sistem otomatisasi, dan instalasi seni interaktif.
 SPESIFIKASI :
