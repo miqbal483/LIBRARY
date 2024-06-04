@@ -1,20 +1,43 @@
 ~LIBRARY OTOMATIC ALARM ~
-~Description About Project~ 
+Deskripsi 
 ![leadder (1)](https://github.com/miqbal483/LIBRARY/assets/168562250/7a54e567-f1b1-40a2-a387-f03c54a57625)
     Smart alarm library adalah perpustakaan yang di rancang khusus untuk meningkatkan pengalaman pengunjung. 
   Perpustakan dengan  integrasi teknologi alarm cerdas dengan sistem alarm pintar yang membantu pengguna untuk mengatur 
   waktu belajar, membaca, dan aktivitas lainnya Dengan teknologi ini, pengguna dapat memaksimalkan waktu mereka di 
   perpustakaan, memastikan kenyamanan dan produktivitas yang lebih tinggi dalam proses belajar dan penelitian.
 
-~MEET OUR TEAM ~
+Meet out team
 
 ![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
 
-# Daftar Isi
-- DESKRIPSI (#Description-About-Project)
-- [Subjudul 1](#subjudul-1)
-- [Subjudul 2](#subjudul-2)
-  - [Sub-subjudul
+## Daftar Isi
+- [Deskripsi](#Deskripsi)
+- [Meet out team](#Meet-our-team)
+- [Alat dan Bahan](#Alat-dan-Bahan)
+  - [Daftar Alat Software](#Daftar-Alat-Software)
+  - [Daftar Alat dan Bahan Hardware](#Daftar-Alat-dan-Bahan-Hardware)
+- [Konsep Kerja](#Konsep-Kerja)
+  - [Blok Diagram](#Blok-Diagram)
+  - [Cara Kerja](#Cara-Kerja)
+- [Detail Proyek](#Detail-Proyek)
+  - [PCB](#PCB)
+    - [Desain Skematik Shield Arduino](#Desain-Skematik-Shield-Arduino)
+    - [Desain Shield PCB](#Desain-Shield-PCB)
+    - [Desain Sistem Proyek](#Desain-Sistem-Proyek)
+    - [Video Desain PCB](#Video-Desain-PCB)
+    - [Hasil Gambar PCB](#Hasil-Gambar-PCB)
+  - [3D Kemasan Proyek](#3D-Kemasan-Proyek)
+    - [Desain 3D Case Arduino](#Desain-3D-Case-Arduino)
+    - [Video Pembuatan Desain 3D](#Video-Pembuatan-Desain-3D)
+    - [Foto 3D](#Foto-3D)
+  - [Program](#Program)
+    - [Convert Audio](#Convert-Audio)
+    - [Video Convert Audio](#Video-Convert-Audio)
+    - [Simulasi Program](#Simulasi-Program)
+    - [Video Simulasi](#Video-Simulasi)
+    - [Realisasi Program](#Realisasi-Program)
+    - [Realisasi EEPROM](#Realisasi-EEPROM)
+- [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
 
 
 ~ COMPONEN ~
