@@ -46,8 +46,7 @@ Komponent Dan Software
 | 1  | Arduino mega 2560  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/bd5949c1-7090-4e58-80a6-7ac81824297a) |
 | 2  |  Switch  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/04e89d1d-0f4d-4dc7-8d3e-5b2c43ee9a24) |
 | 5  |  Speaker | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)  |
-| 6  |  Amplyfier 5V |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/6a5d8969-c13d-4ca7-9e0a-1ceff546c52b)
- |
+| 6  |  Amplyfier 5V |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/6a5d8969-c13d-4ca7-9e0a-1ceff546c52b)  |
 
 
 
@@ -55,7 +54,6 @@ Komponent Dan Software
 1.Schematic
     
 ![Gambar WhatsApp 2024-06-03 pukul 12 02 48_68228d2c](https://github.com/miqbal483/LIBRARY/assets/168562250/2e360a24-c0e3-4003-a24e-45df6792fead)
-
 
 2.PCB
 
