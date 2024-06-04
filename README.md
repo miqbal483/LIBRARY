@@ -39,37 +39,18 @@ Meet out team
 
 ![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
 
-Alat dan Bahan
-Daftar alat software
-Daftar alat hardware
+Komponent Dan Software
 
 | No.  | Nama Barang  | Jumlah  |
 | :------------: | :------------: | :------------: |
-| 1  | Arduino ATmega 2560  | 1x  |
-| 2  | Push Button  | 8x  |
-| 3  |  Switch  | 1x  |
-| 4  |  Switch 3 pin |  1x |
-| 5  |  Speaker | 1x  |
-| 6  | Baterai 9V  |  1x |
-| 7  | Resistor 220ohm |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d) |
+| 1  | Arduino mega 2560  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/bd5949c1-7090-4e58-80a6-7ac81824297a) |
+| 2  |  Switch  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/04e89d1d-0f4d-4dc7-8d3e-5b2c43ee9a24) |
+| 5  |  Speaker | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/72f4a45b-7a37-448d-b3e9-5a3c2bc9cf35)  |
+| 6  |  Amplyfier 5V |  ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/8368f4d1-7b34-4e7c-9449-11afbd0c5c05) |
 
 
-1.Arduino At Mega2660 
-    Arduino 2560 adalah papan mikrokontroler yang didasarkan pada ATmega2560 dari keluarga mikrokontroler AVR buatan Atmel. Arduino Mega 2560 dirancang untuk proyek yang membutuhkan lebih banyak I/O (Input/Output) dan memori daripada yang ditawarkan oleh papan seperti Arduino Uno. Papan ini sangat cocok untuk proyek-proyek yang lebih kompleks seperti robotik, sistem otomatisasi, dan instalasi seni interaktif.
-SPESIFIKASI :
-Mikrokontroler: ATmega2560
-Tegangan Operasional: 5V
-Tegangan Input (yang disarankan): 7-12V
-Tegangan Input (batas): 6-20V
-Pin Digital I/O: 54 (15 di antaranya dapat digunakan sebagai output PWM)
-Pin Input Analog: 16
-Arus DC per Pin I/O: 20 mA
-Arus DC untuk Pin 3.3V: 50 mA
-Memori Flash: 256 KB (8 KB digunakan oleh bootloader)
-SRAM: 8 KB
-EEPROM: 4 KB
-Clock Speed: 16 MHz
-![image](https://github.com/miqbal483/LIBRARY/assets/168562250/0711aa7e-5811-41ec-bec8-4b6855569a6d)
+
+
 
 3.Amplyfier 5v
 VCC: Tegangan suplai utama (2.3V hingga 5.5V)
