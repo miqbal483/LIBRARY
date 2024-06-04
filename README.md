@@ -10,6 +10,12 @@
 
 ![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
 
+# Daftar Isi
+- DESKRIPSI(#DESKRIPSI)
+- [Subjudul 1](#subjudul-1)
+- [Subjudul 2](#subjudul-2)
+  - [Sub-subjudul
+
 ~ COMPONEN ~
 1.Arduino At Mega2660 
     Arduino 2560 adalah papan mikrokontroler yang didasarkan pada ATmega2560 dari keluarga mikrokontroler AVR buatan Atmel. Arduino Mega 2560 dirancang untuk proyek yang membutuhkan lebih banyak I/O (Input/Output) dan memori daripada yang ditawarkan oleh papan seperti Arduino Uno. Papan ini sangat cocok untuk proyek-proyek yang lebih kompleks seperti robotik, sistem otomatisasi, dan instalasi seni interaktif.
