@@ -73,18 +73,20 @@ Software
 
 -Vidio Desain PCB
 (ON progress)
-
-## DESAIN KEMASAN 
+3D-K
+## Kemasan-Proyek
 -3D Desain 
    -tampak atas 
+   
 ![Kotak tampak atas](https://github.com/miqbal483/LIBRARY/assets/168562250/275495f9-fb51-403c-a9c0-783796a31f21)
     -tampak samping   
+    
 ![kotak ](https://github.com/miqbal483/LIBRARY/assets/168562250/b82037cd-8f78-457e-8ede-f791671e7f0b)
 
 -Vidio Pembuatan 3D desain
 (ON PROGRESS)
 
-~ DOKUMENTATION ~
+## Dokumentasi Proyek dan Team
 ![Gambar WhatsApp 2024-06-03 pukul 11 17 21_7118fbc0](https://github.com/miqbal483/LIBRARY/assets/168562250/c767fbaa-ba4b-4872-812a-8215e6c8b147)
 
 ![Gambar WhatsApp 2024-06-03 pukul 11 17 19_e89f5abf](https://github.com/miqbal483/LIBRARY/assets/168562250/0b1a0052-255c-4d34-98d4-f8b1d160f69e)
