@@ -28,22 +28,22 @@ SISTEM PENGINGAT WAKTU KUNJUNGAN PUSTAKA AKAN SEGERA BERAKHIR
     - [Realisasi Program](#Realisasi-Program)
 - [Dokumentasi Proyek dan Team](#Dokumentasi-Proyek-dan-Team)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Deskripsi 
+## Deskripsi 
     Smart alarm library adalah perpustakaan yang di rancang khusus untuk meningkatkan pengalaman pengunjung. 
   Perpustakan dengan  integrasi teknologi alarm cerdas dengan sistem alarm pintar yang membantu pengguna untuk mengatur 
   waktu belajar, membaca, dan aktivitas lainnya Dengan teknologi ini, pengguna dapat memaksimalkan waktu mereka di 
   perpustakaan, memastikan kenyamanan dan produktivitas yang lebih tinggi dalam proses belajar dan penelitian.
   ![leadder (1)](https://github.com/miqbal483/LIBRARY/assets/168562250/7a54e567-f1b1-40a2-a387-f03c54a57625)
 
-Meet out team
+## Meet out team
 
 ![leadder (2)](https://github.com/miqbal483/LIBRARY/assets/168562250/2e7cfa9a-6211-471e-ae5d-5f4e03df4095)
 
-SISTEM   
+## SISTEM   
 -Flowchart
 -Cara kerja 
 
-Komponent Dan Software
+## Komponent Dan Software
 Tabel Komponen
 | No.  | Nama Barang  | Jumlah  |
 | :------------: | :------------: | :------------: |
@@ -61,7 +61,7 @@ Software
 | 1  | Git Hub  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/4f512ab2-e4b6-44b4-bdf9-61a0b635a4a2) |
 | 2  |  Visual studio 2022  | ![image](https://github.com/miqbal483/LIBRARY/assets/168562250/51341e1c-ca15-41e2-96ff-42ce25cff58b) |
 
-DETILE PROJECT
+## DETILE PROJECT
 1.PCB
 -Desain Skematik PCB
 
@@ -74,7 +74,7 @@ DETILE PROJECT
 -Vidio Desain PCB
 (ON progress)
 
-DESAIN KEMASAN 
+## DESAIN KEMASAN 
 -3D Desain 
    -tampak atas 
 ![Kotak tampak atas](https://github.com/miqbal483/LIBRARY/assets/168562250/275495f9-fb51-403c-a9c0-783796a31f21)
