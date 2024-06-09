@@ -75,11 +75,12 @@ Software
 (ON progress)
 3D-K
 ## Kemasan-Proyek
--3D Desain 
+-3D Desain
    -tampak atas 
    
 ![Kotak tampak atas](https://github.com/miqbal483/LIBRARY/assets/168562250/275495f9-fb51-403c-a9c0-783796a31f21)
-    -tampak samping   
+    
+   -tampak samping   
     
 ![kotak ](https://github.com/miqbal483/LIBRARY/assets/168562250/b82037cd-8f78-457e-8ede-f791671e7f0b)
 
@@ -87,6 +88,15 @@ Software
 (ON PROGRESS)
 
 ## Dokumentasi Proyek dan Team
+
+![KITAA PROGRESS](https://github.com/miqbal483/LIBRARY/assets/168562250/c532f5b5-7a8c-433e-bd4a-1e2ed70e4e1e)
+
+![PCB KITAAA](https://github.com/miqbal483/LIBRARY/assets/168562250/a02b498b-66f8-4249-a2c1-bbb3179b67b0)
+
+![PROGRESS KITAA](https://github.com/miqbal483/LIBRARY/assets/168562250/698bbf3f-70b1-4793-98aa-72b2a8be5603)
+
+![FOTOO KITAA](https://github.com/miqbal483/LIBRARY/assets/168562250/3cf273be-2b49-40cd-b94f-b37e7cc3f6d9)
+
 ![Gambar WhatsApp 2024-06-03 pukul 11 17 21_7118fbc0](https://github.com/miqbal483/LIBRARY/assets/168562250/c767fbaa-ba4b-4872-812a-8215e6c8b147)
 
 ![Gambar WhatsApp 2024-06-03 pukul 11 17 19_e89f5abf](https://github.com/miqbal483/LIBRARY/assets/168562250/0b1a0052-255c-4d34-98d4-f8b1d160f69e)
