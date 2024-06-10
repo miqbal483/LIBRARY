@@ -98,7 +98,7 @@ https://youtu.be/Cwl16uaGwfU?si=vJ_uzfdw53V6q0ss
 ![kotak ](https://github.com/miqbal483/LIBRARY/assets/168562250/b82037cd-8f78-457e-8ede-f791671e7f0b)
 
 -Vidio Pembuatan 3D desain
-(ON PROGRESS)
+ find it on youtube  :https://youtu.be/gMB6TkZ90Xk?si=3x84PS4rwlSPPd9r
 
 ## Dokumentasi Proyek dan Team
 
