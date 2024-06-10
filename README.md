@@ -78,7 +78,9 @@ Software
   ![Gambar WhatsApp 2024-06-03 pukul 11 58 49_088699b5](https://github.com/miqbal483/LIBRARY/assets/168562250/7f10e5c6-53e3-4571-914c-6e975d8c16dd)
 
 -Vidio Desain PCB
-(ON progress)
+
+https://youtu.be/Cwl16uaGwfU?si=vJ_uzfdw53V6q0ss
+
 3D-K
 ## Kemasan-Proyek
 -3D Desain
