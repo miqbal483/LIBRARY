@@ -6,10 +6,11 @@ https://youtu.be/MK6m6q8eAms?si=uDOMp7hHmW7Q7evs
 Project Presentation:
 https://youtu.be/26DVSYQhU48?si=dGXOXOYlQXr6ws6L
 
-Simulation Video:
+Simulation Project:
 https://wokwi.com/projects/399544200636423169
 
-
+Simulation Video:
+https://youtu.be/jXPkd2OSdCM
 
 ## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
