@@ -12,6 +12,9 @@ https://wokwi.com/projects/399544200636423169
 Simulation Video:
 https://youtu.be/jXPkd2OSdCM
 
+3D Design in Tinkercad:
+https://www.tinkercad.com/things/8WcROYUEPT0-smooth-maimu/edit?sharecode=sExdqkGP5Q3-d2moFkXHQfWHruUjbhXInHOObu-gGvI
+
 ## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
 - [Meet out team](#Meet-our-team)
