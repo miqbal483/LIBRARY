@@ -1,5 +1,11 @@
 SISTEM PENGINGAT WAKTU KUNJUNGAN PUSTAKA AKAN SEGERA BERAKHIR 
 
+Short Video Iklan:
+https://youtu.be/MK6m6q8eAms?si=uDOMp7hHmW7Q7evs
+
+Project Presentation:
+https://youtu.be/26DVSYQhU48?si=dGXOXOYlQXr6ws6L
+
 ## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
 - [Meet out team](#Meet-our-team)
