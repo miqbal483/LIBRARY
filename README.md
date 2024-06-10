@@ -15,6 +15,9 @@ https://youtu.be/jXPkd2OSdCM
 3D Design in Tinkercad:
 https://www.tinkercad.com/things/8WcROYUEPT0-smooth-maimu/edit?sharecode=sExdqkGP5Q3-d2moFkXHQfWHruUjbhXInHOObu-gGvI
 
+Thingiverse Available!
+https://www.thingiverse.com/thing:6656032
+
 ## TABEL OF CONTENT
 - [Deskripsi](#Deskripsi)
 - [Meet out team](#Meet-our-team)
